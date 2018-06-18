@@ -1,0 +1,7 @@
+---
+applications:
+- memory: 256M
+  domain: mybluemix.net
+  command: node server.js
+  timeout: 180
+  disk_quota: 1024M
