@@ -1,6 +1,4 @@
-# Use o serviço do IBM Watson Assistant para conversar com seu Bot (feito com Botkit)
-
-[![Build Status](https://travis-ci.org/watson-developer-cloud/botkit-middleware.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/botkit-middleware)
+# O seu Chatbot do Watson Assistant no Facebook
 
 Uso do [Botkit](http://howdy.ai/botkit) e [Botkit Middleware](https://github.com/watson-developer-cloud/botkit-middleware) permitem que os desenvolvedores possam integrar facilmente o workspace do [Watson Assistant](https://www.ibm.com/watson/services/conversation/) com múltiplas redes sociais como Slack, Facebook e Twilio. Os clientes podem ter conversas simultâneas e independentes em diferentes canais com um único workspace.
 
